@@ -1,0 +1,20 @@
+# فایل‌های کش و باینری پایتون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# محیط مجازی (Virtual Environment)
+venv/
+env/
+.env
+
+# دیتابیس لوکال
+*.sqlite3
+db.sqlite3
+
+# فایل‌های رسانه‌ای و آپلود شده
+media/
+
+# فایل‌های تنظیمات ویرایشگر
+.vscode/
+.idea/
