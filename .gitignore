@@ -7,7 +7,7 @@ __pycache__/
 venv/
 env/
 .env
-
+watch/
 # دیتابیس لوکال
 *.sqlite3
 db.sqlite3
@@ -17,4 +17,4 @@ media/
 
 # فایل‌های تنظیمات ویرایشگر
 .vscode/
-.idea/
+.idea/watch/
